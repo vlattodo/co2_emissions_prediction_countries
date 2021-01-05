@@ -1,4 +1,4 @@
-# Prediction of CO2 emissions from country-specific data
+# Prediction of yearly CO2 emissions from country data
 # A Machine Learning Project
 ### by Vladislav Todorov
 
